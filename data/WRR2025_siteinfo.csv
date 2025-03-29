@@ -1,0 +1,53 @@
+site,longname,type,meanelevation,elevation,area (sq km),Gmed,Lmed,L/G,Slope mean,inceptisol,oxisol,ultisol,tabonuco,lithology,well depth,daterange,numsamples
+RI,Rio Icacos,stream,684.53949,,3.252357895,0.331444,43.87006,132.3603987,24.942167,92.294814,6.754971,0,0,granitoid,,4/2018 - 7/2020,94
+QG,Quebrada Quaba,stream,698.229492,,0.148276709,0.389628,42.727928,109.6633917,27.965271,83.814731,15.651961,0,0,granitoid,,4/2018 - 7/2020,92
+MPR,Mameyes Puente Roto,stream,499.28894,84,17.61279493,0.405364,52.455856,129.404328,28.369459,50.96197,44.829235,3.718311,60,"volcaniclastic, hornfels",,4/2018 - 7/2020,94
+Q3,Bisley Quebrada 3,stream,456.851929,,0.325747532,0.43678,51.183777,117.1843422,29.69096,38.954292,53.455396,7.565235,100,"volcaniclastic, hornfels",,4/2018 - 7/2020,95
+QS,Quebrada Sabana,stream,726.952087,,2.349721366,0.315512,52.698494,167.0253239,22.491058,16.698107,81.095902,1.770474,8,"volcaniclastic, hornfels",,4/2018 - 7/2020,103
+QP,Quebrada Prieta,stream,529.828491,,0.417343823,0.317304,43.284275,136.4126358,21.664463,31.863122,56.866516,11.106079,34,"volcaniclastic, hornfels",,4/2018 - 12/2020,102
+RESSH,Rio Espiritu Santo Streamhouse,stream,540.461914,,15.31079319,0.28261,48.870064,172.9240437,21.042059,34.346274,52.084497,13.221904,41,"mixed volcaniclastic, granitoid",,1/2019 - 5/2020,14
+I0,Icacos Tributary 0,stream,639.571716,,0.042750408,0.281568,41.627419,147.8414415,23.101189,98.582917,0,0,0,granitoid,,6/2018 - 5/2020,10
+RCRP,Bulk rain Rio Piedras,rain,,5,,,,,,,,,,,,7/2018 - 7/2020,38
+WDRP,Wet-dry rain Rio Piedras,rain,,5,,,,,,,,,,,,7/2018 - 7/2020,56
+RCEV,Bulk rain El Verde,rain,,350,,,,,,,,,,,,9/2018 - 3/2020,45
+WDEV,Wet-dry rain El Verde,rain,,350,,,,,,,,,,,,7/2018 - 6/2020,53
+TCEV,Throughfall El Verde,throughfall,,382.2,,,,,,,,,,,,2/2019 - 7/2020,39
+RP,Rio Piedras,stream,75,,40.14,,,,,,,,,"mixed volcaniclastic, others***",,4/2018 - 7/2020,89
+Q3P,Bisley Quebrada 3 sensor pool,other,543,,,,,,,,,,,"volcaniclastic, hornfels",,,
+MPR_old,Mameyes Puente Roto,stream,498,84,17.7,,,,,,,,,"volcaniclastic, hornfels",,,
+LQSW7,Mameyes Puente Roto,stream,498,84,17.7,,,,,,,,,"volcaniclastic, hornfels",,,
+LQR3,Rain collector Rio Icacos,rain,,625,,,,,,,,,,,,,
+LQR4,Rain collector Pico del Este,rain,,1011,,,,,,,,,,,,,
+LQR5a,Rain collector Mata de Platanos,rain,,2,,,,,,,,,,,,,
+LQR5b,Rain collector Mameyes/Platanos,rain,,5,,,,,,,,,,,,,
+LQR6,Rain collector Bisley Upper Tower,rain,,502,,,,,,,,,,,,,
+LQR9,Rain collector Aviary,rain,,770,,,,,,,,,,,,,
+LQF3,Cloud water collector Aviary,cloudwater,,770,,,,,,,,,,,,,
+LQGW1,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW2,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW3,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW4,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW5,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW6,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW7,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW8,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW9,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW13,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW14,McDowell well field near Rio Icacos gage,groundwater,,625,,,,,,,,,,,,,
+LQGW15,"CA-1 well, Naguabo",groundwater,,5,,,,,,,,,,,,,
+LQGW16,"Caimitillo well, EYNF",groundwater,,645,,,,,,,,,,,,,
+LQGW17,LGW1 Icacos deep well,groundwater,,648,,,,,,,,,,,,,
+LQGW18,BIW2 bisley deep well,groundwater,,239,,,,,,,,,,,,,
+LQGW19,"Palo Colorado well, EYNC",groundwater,,694,,,,,,,,,,,,,
+LQGW20,Pennock Gramas well,groundwater,,10,,,,,,,,,,,,,
+LQGW21,"Aviary well, EYNF",groundwater,,461,,,,,,,,,,,,,
+LQGW22,CD3 East Peak well (5m depth),groundwater,,775,,,,,,,,,,,,,
+LQGW23,LGW2B (Hwy 191),groundwater,,740,,,,,,,,,,,,,
+I4,Icacos well field,groundwater,,621,,,,,,,,,,,0.04,,
+I9,Icacos well field,groundwater,,622,,,,,,,,,,,0.09,,
+I23,Icacos well field,groundwater,,623,,,,,,,,,,,0.23,,
+I33,Icacos well field,groundwater,,624,,,,,,,,,,,0.33,,
+I61,Icacos well field,groundwater,,625,,,,,,,,,,,0.61,9/2018 - 2/2020,4
+BW10,,groundwater,,239,,,,,,,,,,,,6/2018 - 6/2018,1
+LGW2B,,groundwater,,740,,,,,,,,,,,,5/2018 - 1/2020,4
+EP1,,groundwater,,775,,,,,,,,,,,35,5/2018 - 1/2019,3
